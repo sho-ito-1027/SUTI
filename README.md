@@ -2,8 +2,8 @@
 SUTI is Search Uniform Type Identifier(Command Line Tool)
 
 ## install
-git clone https://github.com/sho-ito-1027/SUTI.git
-cd ./SUTI
+git clone https://github.com/sho-ito-1027/SUTI.git<br>
+cd ./SUTI<br>
 $ make install
 
 ## run
