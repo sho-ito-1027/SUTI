@@ -24,8 +24,8 @@ private func main(arguments: [String]) {
         print("unknown UTI")
         return
     }
-    print("UTI is")
-    print(uti)
+    print("UTI is \(uti)")
+    print("")
 }
 
 private func extractFileExtension(from filePath: String) -> CFString? {
