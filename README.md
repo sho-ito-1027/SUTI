@@ -1,8 +1,13 @@
 # SUTI
 SUTI is Search Uniform Type Identifier(Command Line Tool)
 
-## build
-$ swift build
+## install
+$ make install
 
 ## run
-$ SUTI ~/Desktop/sample.jpeg
+$ suti ~/Desktop/sample.jpeg
+
+## result 
+For example, JPEG file path to suti
+
+`UTI is public.jpeg`
